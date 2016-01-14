@@ -1,2 +1,15 @@
 # Python_for_Informatics
-Informatics is the study of structure, algorithms, behavior, and interactions of information systems. Its applications are powerful and broad, and include such fields as Life Sciences, Data Mining, Business Analytics, and Social Computing. This hands-on course introduces the Python programming language, and is targeted toward students without prior programming experience who are interested in how informatics can be employed to provide solutions to complex, data intensive problems in a variety and scientific and business domains. After learning the core syntax and elements of the Python language, students will gain experience in the fundamentals of network programming, web services, databases and Structured Query Language (SQL), and data visualization.
+
+Not DONE! This is part of the coursework and part basic youtube tutorials of my classwork from my introductory "Python for Informatics" class at UCSD
+
+## Assignments + Youtube Tutorials
+8. [3 Informatics Projects]()
+7. [Google_Geocoding]()
+6. [URL Reader]()
+5. [Message_Frequency_Count]()
+4. [Files_Lists_and_Split]()
+3. [Looping_Searching_and_Slicing]()
+2. [Functions]()
+1. [Mean]()
+##Author
+Michael Galarnyk
