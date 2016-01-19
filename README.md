@@ -10,6 +10,6 @@ Not DONE! This is part of the coursework and part basic youtube tutorials of my 
   <li>[Message_Frequency_Count](https://github.com/mGalarnyk/Python_for_Informatics)</li>
   <li>[Files_Lists_and_Split](https://github.com/mGalarnyk/Python_for_Informatics)</li>
   <li>[Looping_Searching_and_Slicing](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li>[Functions](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li><a href="https://github.com/mGalarnyk/Python_for_Informatics/blob/master/1_Mean_mGalarnyk.ipynb" target="_blank">Mean</a> </li>
+  <li>[Functions](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/2_Functions_mGalarnyk.py)</li>
+  <li>[Mean](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/1_Mean_mGalarnyk.ipynb) </li>
 
