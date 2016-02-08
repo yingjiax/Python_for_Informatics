@@ -4,11 +4,11 @@ Not DONE! Assignments are in the PDF folder. This is part of the coursework and 
 
 ## Solutions
 
-  <li>[3 Informatics Projects](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li>[Google_Geocoding](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li>[URL Reader](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li>[Message_Frequency_Count](https://github.com/mGalarnyk/Python_for_Informatics)</li>
-  <li>[Files_Lists_and_Split](https://github.com/mGalarnyk/Python_for_Informatics)</li>
+  <li>3 Informatics Projects</li>
+  <li>Google_Geocoding</li>
+  <li>URL Reader</li>
+  <li>Message_Count</li>
+  <li>[Files_Lists_and_Split](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/4_Files_Lists_Split.py)</li>
   <li>[3a. process_numbers.py (Looping_Searching_and_Slicing)](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/3_process_numbers.py)</li>
   <li>[3b. parse_float.py (Looping_Searching_and_Slicing)](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/3_parse_float.py)</li>
   <li>[2. Functions](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/2_Functions_mGalarnyk.py)</li>
