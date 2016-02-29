@@ -5,7 +5,7 @@ Not DONE! Assignments are in the PDF folder. This is part of the coursework and 
 ## Solutions
 
   <li>3 Informatics Projects</li>
-  <li>Google_Geocoding</li>
+  <li>[7.Google_Geocoding](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/7_geoxml.py)</li>
   <li>[6. URL Reader](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/6_URL_reader.py)</li>
   <li>[5. Message_Count](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/5_Message_Frequency_Count.py)</li>
   <li>[4. Files_Lists_and_Split](https://github.com/mGalarnyk/Python_for_Informatics/blob/master/4_Files_Lists_Split.py)</li>
