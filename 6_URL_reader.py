@@ -1,3 +1,16 @@
+'''
+Michael Galarnyk
+
+1. Rename the socket1.py program from our textbook to URL_reader.py.
+2. Modify the URL_reader.py program to use urllib instead of a socket.
+3. Add code that prompts the user for the URL so it can read any web page.
+4. Add error checking using try and except to handle the condition where the user enters an
+improperly formatted or non-existent URL.
+5. Count the number of characters received and stop displaying any text after it has shown 3000
+characters.
+6. Continue to retrieve the entire document, count the total number of characters, and display the
+total number of characters.
+'''
 # Wasnt sure what exactly the assignment wanted, but this seems to work.
 
 import urllib
