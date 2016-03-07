@@ -1,6 +1,6 @@
 # Python_for_Informatics
 
-Not DONE! Assignments are in the PDF folder. This is part of the coursework and part basic youtube tutorials of my classwork from my introductory "Python for Informatics" class at UCSD
+Assignments are in the PDF folder. This is part of the coursework of my classwork from my introductory "Python for Informatics" class at UCSD
 
 ## Solutions
 
